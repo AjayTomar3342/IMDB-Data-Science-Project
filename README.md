@@ -1,1 +1,2 @@
-
+This project serves as a full fledged Data Science Pipeline which involves Web Scraping, Data Cleaning, Data Preprocessing, Visualization and Modelling using Regression Algorithms. For most of the subtasks it has been tried to use more than 1 language such as For Data Cleaning both R and Python are used. Similarly For Data Preprocessing and Modelling both languages are used. For Visualization, all Python, R and Power BI were used. 
+More detailed work flow can be understood using the pptx file mentioned in the Repository. 
